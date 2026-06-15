@@ -1,0 +1,5 @@
+geopandas
+scipy
+seaborn
+altair
+jupyterlab

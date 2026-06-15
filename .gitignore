@@ -1,0 +1,45 @@
+bin/
+lib/
+share/
+etc/
+include/
+pyvenv.cfg
+.lock
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.vscode/# Python virtual environment
+bin/
+lib/
+etc/
+share/
+include/
+pyvenv.cfg
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Environment files
+.env__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.venv/
+data/raw/
+data/processed/
+*.csv
+*.xlsx
+*.sqlite
+*.db*
+CACHEDIR.TAG
