@@ -6,3 +6,4 @@ jupyterlab
 cartopy
 adjustText
 ipywidgets
+openpyxl
