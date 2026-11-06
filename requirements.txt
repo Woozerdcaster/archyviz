@@ -7,3 +7,5 @@ cartopy
 adjustText
 ipywidgets
 openpyxl
+OWSLib
+Pillow
