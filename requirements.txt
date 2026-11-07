@@ -3,3 +3,9 @@ scipy
 seaborn
 altair
 jupyterlab
+cartopy
+adjustText
+ipywidgets
+openpyxl
+OWSLib
+Pillow
