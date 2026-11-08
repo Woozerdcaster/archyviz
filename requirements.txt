@@ -9,3 +9,4 @@ ipywidgets
 openpyxl
 OWSLib
 Pillow
+ipympl
