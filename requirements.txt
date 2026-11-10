@@ -7,8 +7,5 @@ cartopy
 adjustText
 ipywidgets
 openpyxl
-OWSLib
-Pillow
+plotly
 ipympl
-PySide6
-pyqt6
