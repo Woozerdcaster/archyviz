@@ -11,3 +11,4 @@ OWSLib
 Pillow
 ipympl
 PySide6
+pyqt6
